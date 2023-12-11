@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  WeatherAppSwiftUI
+
+  Created by Evgeny on 10.12.23.
+  
+*/
+
+"No Internet Connection Key" = "No Internet Connection";
+
+"Last update Key" = "Last update";
+
+"Current Location Key" = "Current Location";
+
+"24 hours forecast Key" = "24 hours forecast";
+
+"4 days forecast Key" = "4 days forecast";
+
+"Loading Key" = "Loading...";
+
+"Degree Key" = "K";
+
+"High Temperature Key" = "H";
+
+"Low Temperature Key" = "L";
+
+"Not Permission Key" = "Not Geo Permission ";
+
+"Retry Key" = "Retry";
